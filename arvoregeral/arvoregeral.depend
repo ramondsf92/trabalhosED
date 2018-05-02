@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1525186991 source:c:\teste codeblock\arvoregeral\main.c
+	<stdio.h>
+	<stdlib.h>
+
