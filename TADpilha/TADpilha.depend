@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1526006439 source:c:\users\ramon\documents\codeblocksprojetos\tadpilha\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pilha.h"
+
+1526006439 c:\users\ramon\documents\codeblocksprojetos\tadpilha\pilha.h
+
+1526007575 source:c:\users\ramon\documents\codeblocksprojetos\tadpilha\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1526005795 c:\users\ramon\documents\codeblocksprojetos\tadpilha\lista.h
+
+1526007584 source:c:\users\ramon\documents\codeblocksprojetos\tadpilha\pilha.c
+	<stdio.h>
+	<stdlib.h>
+	"pilha.h"
+	"lista.h"
+
